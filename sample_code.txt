@@ -1,0 +1,67 @@
+code = """
+int x;
+bool flag;
+x = 10;
+flag = true;
+
+if (x > 5) {
+    x = x - 1;
+}
+
+for (int i; i < 3; i = i + 1) {
+    x = x + i;
+}
+"""
+
+
+
+code = """
+int x;
+x = 1;
+
+if (x < 5) {
+    x = x + 1;
+
+    if (x == 2) {
+        x = x * 2;
+    }
+}
+
+for (int i; i < 2; i = i + 1) {
+    x = x + i;
+}
+"""
+
+
+
+code = """
+int y
+y = 3;
+"""
+
+
+
+code = """
+int x;
+x = (1 + ) 2;
+"""
+
+
+
+code = """
+int x;
+if (x > 0) {
+    x = x + 1;
+"""
+
+
+
+code = """
+bool flag;
+flag = true;
+
+if (flag && false) {
+    flag = false;
+}
+"""
+
