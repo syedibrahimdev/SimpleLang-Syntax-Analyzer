@@ -213,7 +213,7 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 **Syed Ibrahim Ahmed**
 [![GitHub](https://img.shields.io/badge/GitHub-syedibrahimdev-181717?style=flat&logo=github)](https://github.com/syedibrahimdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/syedibrahimdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-ibrahim-ahmed-6aa304247/)
 
 ---
 
